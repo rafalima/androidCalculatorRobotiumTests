@@ -8,4 +8,4 @@ Instalação
 
 Executando
 ==========
-- Clicar com o botão direito no teste ou na classe a ser testado, depois Run As -> Android JUnit Test 
+- Clicar com o botão direito no teste ou na classe a ser testada, depois Run As -> Android JUnit Test 
